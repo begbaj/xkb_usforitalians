@@ -36,3 +36,6 @@ L'unica eccezione è la `e accentata`:
 * è = alt-gr + shift + e
 
 per avere la `é`/`è` in maiuscolo, basterà tenere attivo il capslock.
+
+# Resources
+Dopo la creazione del layout ho trovato questo articolo della wiki di arch (la migliore wiki di sempre, a mani basse): [link](https://wiki.archlinux.org/title/X_keyboard_extension)
