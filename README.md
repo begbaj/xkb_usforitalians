@@ -19,7 +19,7 @@ I file interessati sono i seguenti:
 Per installare il nuovo layout basterà sostituire questi file con quelli nella repo.
 
 il risultato sarà il seguente:
-[immagine del layout]
+![layout](https://i.imgur.com/c9SeKb4.png)
 
 # Lettere accentate
 Per gli accenti basterà tenere premuto il tasto alt-gr e poi la lettera interessata. Ad esempio:
