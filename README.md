@@ -17,8 +17,9 @@ I file interessati sono i seguenti:
 * /usr/share/X11/xkb/rules/evdev.xml
 
 Per installare il nuovo layout basterà sostituire questi file con quelli nella repo.
+Dopo di che basterà andare a selezionare il layout dalle impostazioni della tastiera; il layout si chiamerà US > English (US for italians).
 
-il risultato sarà il seguente:
+Il risultato sarà il seguente:
 ![layout](https://i.imgur.com/c9SeKb4.png)
 
 # Lettere accentate
