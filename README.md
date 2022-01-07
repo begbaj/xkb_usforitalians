@@ -27,3 +27,7 @@ Per gli accenti basterà tenere premuto il tasto alt-gr e poi la lettera interes
 * à = alt-gr + a
 * À = alt-gr + a (con caps lock attivo) oppure alt-gr + shift + a
 e cosi per le altre vocali.
+L'unica eccezione è la `e accentata`:
+* é = alt-gr + e
+* è = alt-gr + shift + e
+per avere la `é`/`è` in maiuscolo, basterà tenere attivo il capslock.
