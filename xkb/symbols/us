@@ -2234,10 +2234,12 @@ xkb_symbols "us_it"    {
 	include "us(basic)"
 	name[Group1] = "Italian, simple (US)";
 	
-	key <AD03> {[e,         E,              eacute, egrave ]};    
-	key <AD07> {[u,         U,              ugrave, Ugrave ]};
-	key <AD09> {[o,         O,              ograve, Ograve ]};    
-	key <AC01> {[a,         A,              agrave, Agrave ]};
+	key <AD03> {[e,         E,              egrave, eacute   ]};    
+	key <AD07> {[u,         U,              ugrave, ugrave   ]};
+	key <AD08> {[i,         I,              igrave, igrave   ]};
+	key <AD09> {[o,         O,              ograve, ograve   ]};    
+	key <AC01> {[a,         A,              agrave, agrave   ]};
+    key <AE03> {[3,         numbersign,     U018F,      EuroSign ]};
 	
 	include "level3(ralt_switch)"	
 };
