@@ -20,7 +20,7 @@ Per installare il nuovo layout basterà sostituire questi file con quelli nella 
 Dopo di che basterà andare a selezionare il layout dalle impostazioni della tastiera; il layout si chiamerà US > English (US for italians).
 
 Il risultato sarà il seguente:
-![layout](https://i.imgur.com/TyHiN4u.png)
+![layout](https://i.imgur.com/iAgPQOF.png)
 
 # Lettere accentate
 Per gli accenti basterà tenere premuto il tasto alt-gr e poi la lettera interessata. Ad esempio:

@@ -2239,7 +2239,7 @@ xkb_symbols "us_it"    {
 	key <AD08> {[i,         I,              igrave, igrave   ]};
 	key <AD09> {[o,         O,              ograve, ograve   ]};    
 	key <AC01> {[a,         A,              agrave, agrave   ]};
-    key <AE03> {[3,         numbersign,     U018F,      EuroSign ]};
-	
+    key <AE03> {[3,         numbersign,     U0259,  U025C    ]};
+    key <AE04> {[4,         dollar,         EuroSign         ]};
 	include "level3(ralt_switch)"	
 };
