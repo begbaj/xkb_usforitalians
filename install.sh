@@ -8,3 +8,4 @@ sudo cp xkb/rules/base.lst /usr/share/X11/xkb/rules/base.lst
 sudo cp xkb/rules/evdev.lst /usr/share/X11/xkb/rules/evdev.lst
 sudo cp xkb/rules/base.xml /usr/share/X11/xkb/rules/base.xml
 sudo cp xkb/rules/evdev.xml /usr/share/X11/xkb/rules/evdev.xml
+localectl list-x11-keymap-variants us_it
